@@ -1,0 +1,821 @@
+<?xml version="1.0" encoding="UTF-8"?>
+			<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+			xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+			xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+			http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="uid" for="node" attr.name="uid" attr.type="string">
+	<default></default>
+</key>
+<key id="passion" for="node" attr.nom="passion" attr.type="int">
+	<default></default>
+</key>
+<key id="ville" for="node" attr.nom="ville" attr.type="string">
+	<default></default>
+</key>
+<key id="age" for="node" attr.nom="age" attr.type="int">
+	<default></default>
+</key>
+<key id="Niveau_intelectuelle" for="node" attr.nom="Niveau_intelectuelle" attr.type="int">
+	<default></default>
+</key>
+<key id="sexe" for="node" attr.nom="sexe" attr.type="int">
+	<default></default>
+</key>
+<key id="Nombre_amis" for="node" attr.nom="Nombre_amis" attr.type="int">
+	<default></default>
+</key>
+<key id="Activité" for="node" attr.nom="Activité" attr.type="string">
+	<default></default>
+</key>
+
+<key id="Label" for="node" attr.nom="Label" attr.type="string">
+	<default></default>
+</key><graph id="G" edgedefault="undirected">
+<node id="5185">
+	<data key="Label"> Farid </data>
+	<data key="uid"><![CDATA[5185]]></data>
+	<data key="age"><![CDATA[48]]></data>
+	<data key="Niveau_intelectuelle"><![CDATA[3]]></data> 
+    <data key="passion"><![CDATA[1]]></data> 
+	<data key="sexe"><![CDATA[1]]></data>
+	<data key="ville"><![CDATA[sétif]]></data>
+	<data key="Nombre_amis"><![CDATA[80]]></data>
+    <data key="Activité"><![CDATA[false]]></data>
+</node>	
+<node id="118832">
+	<data key="Label">Nora</data>
+	<data key="uid"><![CDATA[118832]]></data>
+	<data key="sexe"><![CDATA[2]]></data>
+	<data key="age"><![CDATA[48]]></data>
+	<data key="Niveau_intelectuelle"><![CDATA[3]]></data> 
+    <data key="passion"><![CDATA[1]]></data> 
+	<data key="ville"><![CDATA[sétif]]></data>
+	<data key="Nombre_amis"><![CDATA[1000]]></data>
+	<data key="Activité"><![CDATA[true]]></data>
+
+</node>
+<node id="306239">
+	<data key="Label"> Lina </data>
+	<data key="uid"><![CDATA[306239]]></data>
+	<data key="sexe"><![CDATA[2]]></data>
+	<data key="age"><![CDATA[28]]></data>
+    <data key="Niveau_intelectuelle"><![CDATA[3]]></data> 
+    <data key="passion"><![CDATA[2 4]]></data> 
+	<data key="ville"><![CDATA[sétif]]></data>
+	<data key="Nombre_amis"><![CDATA[150]]></data>
+	<data key="Activité"><![CDATA[true]]></data>
+
+</node>
+<node id="400966">
+	<data key="Label">Walid</data>
+	<data key="uid"><![CDATA[400966]]></data>
+	<data key="age"><![CDATA[40]]></data>
+	<data key="Niveau_intelectuelle"><![CDATA[3]]></data> 
+    <data key="passion"><![CDATA[1]]></data> 
+	<data key="sexe"><![CDATA[1]]></data>
+	<data key="ville"><![CDATA[sétif]]></data>
+	<data key="Nombre_amis"><![CDATA[51]]></data>
+	<data key="Activité"><![CDATA[true]]></data>
+
+</node>
+<node id="404127">
+	<data key="Label">Asmar</data>
+	<data key="uid"><![CDATA[404127]]></data>
+	<data key="sexe"><![CDATA[1]]></data>
+	<data key="age"><![CDATA[33]]></data>
+	<data key="Niveau_intelectuelle"><![CDATA[4]]></data> 
+    <data key="passion"><![CDATA[ 3]]></data> 
+	<data key="ville"><![CDATA[sétif]]></data>
+	<data key="Nombre_amis"><![CDATA[200]]></data>
+	<data key="Activité"><![CDATA[true]]></data>
+
+</node>
+<node id="404619">
+	<data key="Label">Rania</data>
+	<data key="uid"><![CDATA[404619]]></data>
+	<data key="sexe"><![CDATA[2]]></data>
+	<data key="age"><![CDATA[24]]></data>
+    <data key="Niveau_intelectuelle"><![CDATA[4]]></data> 
+    <data key="passion"><![CDATA[2 3]]></data> 
+	<data key="ville"><![CDATA[sétif]]></data>
+	<data key="Nombre_amis"><![CDATA[92]]></data>
+	<data key="Activité"><![CDATA[true]]></data>
+
+</node>
+<node id="407803">
+	<data key="Label">Haroun</data>
+	<data key="uid"><![CDATA[407803]]></data>
+	<data key="sexe"><![CDATA[1]]></data>
+	<data key="age"><![CDATA[44]]></data>
+    <data key="Niveau_intelectuelle"><![CDATA[2]]></data> 
+    <data key="passion"><![CDATA[4 1]]></data> 
+	<data key="ville"><![CDATA[sétif]]></data>
+	<data key="Nombre_amis"><![CDATA[205]]></data>
+	<data key="Activité"><![CDATA[true]]></data>
+
+</node>
+<node id="412915">
+	<data key="Label">Sami</data>
+	<data key="uid"><![CDATA[412915]]></data>
+	<data key="sexe"><![CDATA[1]]></data>
+	 <data key="age"><![CDATA[29]]></data>
+    <data key="Niveau_intelectuelle"><![CDATA[3]]></data> 
+    <data key="passion"><![CDATA[1]]></data> 
+	<data key="ville"><![CDATA[sétif]]></data>
+	<data key="Nombre_amis"><![CDATA[180]]></data>
+	<data key="Activité"><![CDATA[true]]></data>
+
+</node>
+<node id="415855">
+	<data key="Label">Karim</data>
+	<data key="uid"><![CDATA[415855]]></data>
+	<data key="sexe"><![CDATA[1]]></data>
+	<data key="age"><![CDATA[29]]></data>
+    <data key="Niveau_intelectuelle"><![CDATA[4]]></data> 
+    <data key="passion"><![CDATA[ 4]]></data> 
+	<data key="ville"><![CDATA[sétif]]></data>
+	<data key="Nombre_amis"><![CDATA[66]]></data>
+	<data key="Activité"><![CDATA[false]]></data>
+
+</node>
+<node id="601162">
+	<data key="Label">Abdou</data>
+	<data key="uid"><![CDATA[601162]]></data>
+	<data key="sexe"><![CDATA[1]]></data>
+	<data key="age"><![CDATA[35]]></data>
+	<data key="Niveau_intelectuelle"><![CDATA[3]]></data> 
+    <data key="passion"><![CDATA[1]]></data> 
+	<data key="ville"><![CDATA[sétif]]></data>
+	<data key="Nombre_amis"><![CDATA[100]]></data>
+	<data key="Activité"><![CDATA[true]]></data>
+
+</node>
+<node id="604605">
+	<data key="Label">Dani</data>
+	<data key="uid"><![CDATA[604605]]></data>
+	<data key="sexe"><![CDATA[1]]></data>
+	<data key="age"><![CDATA[26]]></data>
+	<data key="Niveau_intelectuelle"><![CDATA[4]]></data> 
+    <data key="passion"><![CDATA[1]]></data> 
+	<data key="ville"><![CDATA[sétif]]></data>
+	<data key="Nombre_amis"><![CDATA[300]]></data>
+	<data key="Activité"><![CDATA[true]]></data>
+
+</node>
+<node id="803954">
+	<data key="Label">Mahdi</data>
+	<data key="uid"><![CDATA[803954]]></data>
+	<data key="sexe"><![CDATA[1]]></data>
+	<data key="age"><![CDATA[18]]></data>
+	<data key="Niveau_intelectuelle"><![CDATA[2]]></data> 
+    <data key="passion"><![CDATA[1]]></data> 
+	<data key="ville"><![CDATA[sétif]]></data>
+	<data key="Nombre_amis"><![CDATA[350]]></data>
+	<data key="Activité"><![CDATA[true]]></data>
+
+</node>
+<node id="809901">
+	<data key="Label">Sarah </data>
+	<data key="uid"><![CDATA[809901]]></data>
+	<data key="sexe"><![CDATA[2]]></data>
+	<data key="age"><![CDATA[42]]></data>
+	<data key="Niveau_intelectuelle"><![CDATA[3]]></data> 
+    <data key="passion"><![CDATA[2]]></data> 
+	<data key="ville"><![CDATA[sétif]]></data>
+	<data key="Nombre_amis"><![CDATA[445]]></data>
+	<data key="Activité"><![CDATA[true]]></data>
+
+</node>
+<node id="814655">
+	<data key="Label">kamel</data>
+	<data key="uid"><![CDATA[814655]]></data>
+	<data key="sexe"><![CDATA[1]]></data>
+	<data key="age"><![CDATA[50]]></data>
+	<data key="Niveau_intelectuelle"><![CDATA[4]]></data> 
+    <data key="passion"><![CDATA[4]]></data> 
+	<data key="ville"><![CDATA[sétif]]></data>
+	<data key="Nombre_amis"><![CDATA[250]]></data>
+	<data key="Activité"><![CDATA[true]]></data>
+
+</node>
+<node id="817784">
+	<data key="Label">Rima</data>
+	<data key="uid"><![CDATA[817784]]></data>
+	<data key="sexe"><![CDATA[2]]></data>
+	<data key="age"><![CDATA[32]]></data>
+	<data key="Niveau_intelectuelle"><![CDATA[4]]></data> 
+    <data key="passion"><![CDATA[3]]></data> 
+	<data key="ville"><![CDATA[sétif]]></data>
+	<data key="Nombre_amis"><![CDATA[300]]></data>
+	<data key="Activité"><![CDATA[true]]></data>
+
+</node>
+<node id="1002060">
+	<data key="Label">Tina</data>
+	<data key="uid"><![CDATA[1002060]]></data>
+	<data key="sexe"><![CDATA[2]]></data>
+	<data key="age"><![CDATA[18]]></data>
+	<data key="Niveau_intelectuelle"><![CDATA[2]]></data> 
+    <data key="passion"><![CDATA[2]]></data> 
+	<data key="ville"><![CDATA[sétif]]></data>
+	<data key="Nombre_amis"><![CDATA[96]]></data>
+	<data key="Activité"><![CDATA[true]]></data>
+
+</node>
+<node id="1002546">
+	<data key="Label">Anis</data>
+	<data key="uid"><![CDATA[1002546]]></data>
+	<data key="sexe"><![CDATA[1]]></data>
+	<data key="age"><![CDATA[43]]></data>
+	<data key="Niveau_intelectuelle"><![CDATA[4]]></data> 
+    <data key="passion"><![CDATA[1]]></data> 
+	<data key="ville"><![CDATA[sétif]]></data>
+	<data key="Nombre_amis"><![CDATA[68]]></data>
+	<data key="Activité"><![CDATA[true]]></data>
+
+</node>
+<node id="1105956">
+	<data key="Label">Dina</data>
+	<data key="uid"><![CDATA[1105956]]></data>
+	<data key="sexe"><![CDATA[2]]></data>
+	<data key="age"><![CDATA[48]]></data>
+	<data key="Niveau_intelectuelle"><![CDATA[3]]></data> 
+    <data key="passion"><![CDATA[1]]></data> 
+	<data key="ville"><![CDATA[sétif]]></data>
+	<data key="Nombre_amis"><![CDATA[721]]></data>
+	<data key="Activité"><![CDATA[667]]></data>
+
+</node>
+<node id="1201499">
+	<data key="Label"> Louiza </data>
+	<data key="uid"><![CDATA[1201499]]></data>
+	<data key="sexe"><![CDATA[2]]></data>
+	<data key="age"><![CDATA[48]]></data>
+	<data key="Niveau_intelectuelle"><![CDATA[2]]></data> 
+    <data key="passion"><![CDATA[5]]></data> 
+	<data key="ville"><![CDATA[sétif]]></data>
+	<data key="Nombre_amis"><![CDATA[150]]></data>
+	<data key="Activité"><![CDATA[true]]></data>
+
+</node>
+<node id="1202627">
+	<data key="Label">Amina </data>
+	<data key="uid"><![CDATA[1202627]]></data>
+	<data key="sexe"><![CDATA[2]]></data>
+	<data key="age"><![CDATA[44]]></data>
+	<data key="Niveau_intelectuelle"><![CDATA[4]]></data> 
+    <data key="passion"><![CDATA[2]]></data>  
+	<data key="ville"><![CDATA[sétif]]></data>
+	<data key="Nombre_amis"><![CDATA[270]]></data>
+	<data key="Activité"><![CDATA[true]]></data>
+
+</node>
+<node id="1224446">
+	<data key="Label">Jamal</data>
+	<data key="uid"><![CDATA[1224446]]></data>
+	<data key="sexe"><![CDATA[1]]></data>
+	<data key="Niveau_intelectuelle"><![CDATA[4]]></data> 
+    <data key="passion"><![CDATA[4]]></data> 
+	<data key="age"><![CDATA[50]]></data>
+	<data key="ville"><![CDATA[sétif]]></data>
+	<data key="Nombre_amis"><![CDATA[605]]></data>
+	<data key="Activité"><![CDATA[667]]></data>
+
+</node>
+<node id="1301364">
+	<data key="Label">Elisa </data>
+	<data key="uid"><![CDATA[1301364]]></data>
+	<data key="sexe"><![CDATA[2]]></data>
+	<data key="age"><![CDATA[18]]></data>
+	<data key="Niveau_intelectuelle"><![CDATA[3]]></data> 
+    <data key="passion"><![CDATA[3]]></data> 
+	<data key="ville"><![CDATA[sétif]]></data>
+	<data key="Nombre_amis"><![CDATA[630]]></data>
+	<data key="Activité"><![CDATA[667]]></data>
+
+</node>
+<node id="1702151">
+	<data key="Label">Emad</data>
+	<data key="uid"><![CDATA[1702151]]></data>
+	<data key="sexe"><![CDATA[1]]></data>
+	<data key="age"><![CDATA[23]]></data>
+	<data key="Niveau_intelectuelle"><![CDATA[2]]></data> 
+    <data key="passion"><![CDATA[1]]></data> 
+	<data key="ville"><![CDATA[sétif]]></data>
+	<data key="Nombre_amis"><![CDATA[791]]></data>
+	<data key="Activité"><![CDATA[true]]></data>
+
+</node>
+<node id="1807788">
+	<data key="Label">Adam </data>
+	<data key="uid"><![CDATA[1807788]]></data>
+	<data key="sexe"><![CDATA[1]]></data>
+	<data key="age"><![CDATA[25]]></data>
+	<data key="Niveau_intelectuelle"><![CDATA[2]]></data> 
+    <data key="passion"><![CDATA[1]]></data> 
+	<data key="ville"><![CDATA[sétif]]></data>
+	<data key="Nombre_amis"><![CDATA[180]]></data>
+	<data key="Activité"><![CDATA[true]]></data>
+
+</node>
+<node id="1941289">
+	<data key="Label">Tym</data>
+	<data key="uid"><![CDATA[1941289]]></data>
+	<data key="sexe"><![CDATA[1]]></data>
+	<data key="age"><![CDATA[28]]></data>
+	<data key="Niveau_intelectuelle"><![CDATA[3]]></data> 
+    <data key="passion"><![CDATA[1]]></data> 
+	<data key="ville"><![CDATA[sétif]]></data>
+	<data key="Nombre_amis"><![CDATA[69]]></data>
+	<data key="Activité"><![CDATA[true]]></data>
+
+</node>
+<node id="2004569">
+	<data key="Label">Amin</data>
+	<data key="uid"><![CDATA[2004569]]></data>
+	<data key="sexe"><![CDATA[1]]></data>
+	<data key="age"><![CDATA[38]]></data>
+	<data key="Niveau_intelectuelle"><![CDATA[3]]></data> 
+    <data key="passion"><![CDATA[1]]></data> 
+	<data key="ville"><![CDATA[sétif]]></data>
+	<data key="Nombre_amis"><![CDATA[100]]></data>
+	<data key="Activité"><![CDATA[true]]></data>
+
+</node>
+<node id="2200961">
+	<data key="Label">Rimas</data>
+	<data key="uid"><![CDATA[2200961]]></data>
+	<data key="sexe"><![CDATA[2]]></data>
+	<data key="age"><![CDATA[35]]></data>
+	<data key="Niveau_intelectuelle"><![CDATA[3]]></data> 
+    <data key="passion"><![CDATA[5]]></data> 
+	<data key="ville"><![CDATA[sétif]]></data>
+	<data key="Nombre_amis"><![CDATA[55]]></data>
+	<data key="Activité"><![CDATA[false]]></data>
+
+</node>
+<node id="2200981">
+	<data key="Label">Omar</data>
+	<data key="uid"><![CDATA[2200981]]></data>
+	<data key="sexe"><![CDATA[1]]></data>
+	<data key="age"><![CDATA[54]]></data>
+	<data key="Niveau_intelectuelle"><![CDATA[4]]></data> 
+    <data key="passion"><![CDATA[3]]></data> 
+	<data key="ville"><![CDATA[sétif]]></data>
+	<data key="Nombre_amis"><![CDATA[74]]></data>
+	<data key="Activité"><![CDATA[true]]></data>
+
+</node>
+<node id="2201026">
+	<data key="Label">Jaber</data>
+	<data key="uid"><![CDATA[2201026]]></data>
+	<data key="sexe"><![CDATA[1]]></data>
+	<data key="age"><![CDATA[44]]></data>
+	<data key="Niveau_intelectuelle"><![CDATA[3]]></data> 
+    <data key="passion"><![CDATA[4]]></data> 
+	<data key="ville"><![CDATA[sétif]]></data>
+	<data key="Nombre_amis"><![CDATA[76]]></data>
+	<data key="Activité"><![CDATA[true]]></data>
+
+</node>
+<node id="2201126">
+	<data key="Label">Samia</data>
+	<data key="uid"><![CDATA[2201126]]></data>
+	<data key="sexe"><![CDATA[2]]></data>
+	<data key="age"><![CDATA[46]]></data>
+	<data key="Niveau_intelectuelle"><![CDATA[2]]></data> 
+    <data key="passion"><![CDATA[5]]></data> 
+	<data key="ville"><![CDATA[sétif]]></data>
+	<data key="Nombre_amis"><![CDATA[45]]></data>
+	<data key="Activité"><![CDATA[false]]></data>
+
+</node>
+<node id="2201317">
+	<data key="Label">Yassmin</data>
+	<data key="uid"><![CDATA[2201317]]></data>
+	<data key="sexe"><![CDATA[2]]></data>
+	<data key="age"><![CDATA[38]]></data>
+	<data key="Niveau_intelectuelle"><![CDATA[3]]></data> 
+    <data key="passion"><![CDATA[5 ]]></data> 
+	<data key="ville"><![CDATA[sétif]]></data>
+	<data key="Nombre_amis"><![CDATA[120]]></data>
+	<data key="Activité"><![CDATA[true]]></data>
+
+</node>
+<node id="2201551">
+	<data key="Label">Wahid</data>
+	<data key="uid"><![CDATA[2201551]]></data>
+	<data key="sexe"><![CDATA[1]]></data>
+	<data key="age"><![CDATA[28]]></data>
+	<data key="Niveau_intelectuelle"><![CDATA[2]]></data> 
+    <data key="passion"><![CDATA[5]]></data> 
+	<data key="ville"><![CDATA[sétif]]></data>
+	<data key="Nombre_amis"><![CDATA[33]]></data>
+	<data key="Activité"><![CDATA[false]]></data>
+
+</node>
+<node id="2201552">
+	<data key="Label">Shahin</data>
+	<data key="uid"><![CDATA[2201552]]></data>
+	<data key="age"><![CDATA[50]]></data>
+	<data key="Niveau_intelectuelle"><![CDATA[2]]></data> 
+    <data key="passion"><![CDATA[5]]></data> 
+	<data key="sexe"><![CDATA[2]]></data>
+	<data key="ville"><![CDATA[sétif]]></data>
+	<data key="Nombre_amis"><![CDATA[50]]></data>
+	<data key="Activité"><![CDATA[true]]></data>
+
+</node>
+<node id="2201750">
+	<data key="Label">Hamid</data>
+	<data key="uid"><![CDATA[2201750]]></data>
+	<data key="sexe"><![CDATA[1]]></data>
+	<data key="age"><![CDATA[50]]></data>
+	<data key="Niveau_intelectuelle"><![CDATA[4]]></data> 
+    <data key="passion"><![CDATA[4]]></data> 
+	<data key="ville"><![CDATA[sétif]]></data>
+	<data key="Nombre_amis"><![CDATA[63]]></data>
+	<data key="Activité"><![CDATA[true]]></data>
+
+</node>
+
+<node id="2202577">
+	<data key="Label">Roumisa</data>
+	<data key="uid"><![CDATA[2202577]]></data>
+	<data key="sexe"><![CDATA[2]]></data>
+	<data key="age"><![CDATA[18]]></data>
+	<data key="Niveau_intelectuelle"><![CDATA[3]]></data> 
+    <data key="passion"><![CDATA[2]]></data> 
+	<data key="ville"><![CDATA[sétif]]></data>
+	<data key="Nombre_amis"><![CDATA[55]]></data>
+	<data key="Activité"><![CDATA[true]]></data>
+
+</node>
+<node id="2202977">
+	<data key="Label">Leen</data>
+	<data key="uid"><![CDATA[2202977]]></data>
+	<data key="age"><![CDATA[42]]></data>
+	<data key="Niveau_intelectuelle"><![CDATA[4]]></data> 
+    <data key="passion"><![CDATA[2]]></data> 
+	<data key="sexe"><![CDATA[2]]></data>
+	<data key="ville"><![CDATA[sétif]]></data>
+	<data key="Nombre_amis"><![CDATA[44]]></data>
+	<data key="Activité"><![CDATA[false]]></data>
+
+</node>
+<node id="2203571">
+	<data key="Label">Tamim</data>
+	<data key="uid"><![CDATA[2203571]]></data>
+	<data key="age"><![CDATA[20]]></data>
+	<data key="Niveau_intelectuelle"><![CDATA[3]]></data> 
+    <data key="passion"><![CDATA[1]]></data> 
+	<data key="sexe"><![CDATA[1]]></data>
+	<data key="ville"><![CDATA[sétif]]></data>
+	<data key="Nombre_amis"><![CDATA[66]]></data>
+	<data key="Activité"><![CDATA[true]]></data>
+</node>
+<node id="2204063">
+	<data key="Label">Katia</data>
+	<data key="uid"><![CDATA[2204063]]></data>
+	<data key="name"><![CDATA[Katie Shapiro]]></data>
+	<data key="sexe"><![CDATA[2]]></data>
+	<data key="age"><![CDATA[19]]></data>
+	<data key="Niveau_intelectuelle"><![CDATA[1]]></data> 
+    <data key="passion"><![CDATA[1]]></data>
+	<data key="ville"><![CDATA[sétif]]></data>
+	<data key="Nombre_amis"><![CDATA[51]]></data>
+	<data key="Activité"><![CDATA[false]]></data>
+
+</node>
+<node id="2204191">
+	<data key="Label">Andy</data>
+	<data key="uid"><![CDATA[2204191]]></data>
+	<data key="sexe"><![CDATA[1]]></data>
+	<data key="age"><![CDATA[56]]></data>
+	<data key="Niveau_intelectuelle"><![CDATA[1]]></data> 
+    <data key="passion"><![CDATA[4]]></data> 
+	<data key="ville"><![CDATA[sétif]]></data>
+	<data key="Nombre_amis"><![CDATA[95]]></data>
+	<data key="Activité"><![CDATA[true]]></data>
+
+</node>
+<node id="2204770">
+	<data key="Label">Mina</data>
+	<data key="uid"><![CDATA[2204770]]></data>
+	<data key="age"><![CDATA[22]]></data>
+	<data key="Niveau_intelectuelle"><![CDATA[4]]></data> 
+    <data key="passion"><![CDATA[3]]></data> 
+	<data key="sexe"><![CDATA[2]]></data>
+	<data key="ville"><![CDATA[sétif]]></data>
+	<data key="Nombre_amis"><![CDATA[300]]></data>
+	<data key="Activité"><![CDATA[true]]></data>
+
+</node>
+<node id="2205125">
+	<data key="Label">Chaima</data>
+	<data key="uid"><![CDATA[2205125]]></data>
+	<data key="age"><![CDATA[49]]></data>
+	<data key="Niveau_intelectuelle"><![CDATA[1]]></data> 
+    <data key="passion"><![CDATA[1]]></data> 
+	<data key="sexe"><![CDATA[1]]></data>
+	<data key="ville"><![CDATA[sétif]]></data>
+	<data key="Nombre_amis"><![CDATA[60]]></data>
+	<data key="Activité"><![CDATA[true]]></data>
+
+</node>
+<node id="2205284">
+	<data key="Label">Darin</data>
+	<data key="uid"><![CDATA[2205284]]></data>
+	<data key="age"><![CDATA[38]]></data>
+	<data key="Niveau_intelectuelle"><![CDATA[3]]></data> 
+    <data key="passion"><![CDATA[2]]></data> 
+	<data key="sexe"><![CDATA[2]]></data>
+	<data key="ville"><![CDATA[sétif]]></data>
+	<data key="Nombre_amis"><![CDATA[67]]></data>
+	<data key="Activité"><![CDATA[false]]></data>
+
+</node>
+<node id="2205985">
+	<data key="Label">chahin</data>
+	<data key="uid"><![CDATA[2205985]]></data>
+	<data key="age"><![CDATA[30]]></data>
+	<data key="Niveau_intelectuelle"><![CDATA[3]]></data> 
+    <data key="passion"><![CDATA[2]]></data> 
+	<data key="sexe"><![CDATA[2]]></data>
+	<data key="ville"><![CDATA[sétif]]></data>
+	<data key="Nombre_amis"><![CDATA[60]]></data>
+	<data key="Activité"><![CDATA[false]]></data>
+
+</node>
+<node id="2205999">
+	<data key="Label">Sabrina </data>
+	<data key="uid"><![CDATA[2205999]]></data>
+	<data key="age"><![CDATA[28]]></data>
+	<data key="Niveau_intelectuelle"><![CDATA[3]]></data> 
+    <data key="passion"><![CDATA[2]]></data> 
+	<data key="sexe"><![CDATA[2]]></data>
+	<data key="ville"><![CDATA[sétif]]></data>
+	<data key="Nombre_amis"><![CDATA[200]]></data>
+	<data key="Activité"><![CDATA[true]]></data>
+
+</node>
+<node id="2206368">
+	<data key="Label">Lana</data>
+	<data key="uid"><![CDATA[2206368]]></data>
+	<data key="age"><![CDATA[32]]></data>
+	<data key="Niveau_intelectuelle"><![CDATA[1]]></data> 
+    <data key="passion"><![CDATA[1]]></data> 
+	<data key="sexe"><![CDATA[2]]></data>
+	<data key="ville"><![CDATA[sétif]]></data>
+	<data key="Nombre_amis"><![CDATA[85]]></data>
+	<data key="Activité"><![CDATA[false]]></data>
+
+</node>
+<node id="2207857">
+	<data key="Label">Naim</data>
+	<data key="uid"><![CDATA[2207857]]></data>
+	<data key="age"><![CDATA[48]]></data>
+	<data key="Niveau_intelectuelle"><![CDATA[2]]></data> 
+    <data key="passion"><![CDATA[4]]></data> 
+	<data key="sexe"><![CDATA[1]]></data>
+	<data key="ville"><![CDATA[sétif]]></data>
+	<data key="Nombre_amis"><![CDATA[500]]></data>
+	<data key="Activité"><![CDATA[true]]></data>
+
+</node>
+<node id="2207908">
+	<data key="Label">Chadi</data>
+	<data key="uid"><![CDATA[2207908]]></data>
+	<data key="age"><![CDATA[58]]></data>
+	<data key="Niveau_intelectuelle"><![CDATA[4]]></data> 
+    <data key="passion"><![CDATA[3]]></data> 
+	<data key="sexe"><![CDATA[1]]></data>
+	<data key="ville"><![CDATA[sétif]]></data>
+	<data key="Nombre_amis"><![CDATA[1497]]></data>
+	<data key="Activité"><![CDATA[667]]></data>
+
+</node>
+<node id="2244681">
+	<data key="Label">samer</data>
+	<data key="uid"><![CDATA[2244681]]></data>
+	<data key="age"><![CDATA[18]]></data>
+	<data key="Niveau_intelectuelle"><![CDATA[3]]></data> 
+    <data key="passion"><![CDATA[1]]></data> 
+	<data key="sexe"><![CDATA[1]]></data>
+	<data key="ville"><![CDATA[sétif]]></data>
+	<data key="Nombre_amis"><![CDATA[37]]></data>
+	<data key="Activité"><![CDATA[false]]></data>
+
+</node>
+<node id="2250932">
+	<data key="Label">Carma</data>
+	<data key="uid"><![CDATA[2250932]]></data>
+	<data key="age"><![CDATA[28]]></data>
+	<data key="Niveau_intelectuelle"><![CDATA[3]]></data> 
+    <data key="passion"><![CDATA[2]]></data> 
+	<data key="sexe"><![CDATA[2]]></data>
+	<data key="ville"><![CDATA[sétif]]></data>
+	<data key="Nombre_amis"><![CDATA[52]]></data>
+	<data key="Activité"><![CDATA[false]]></data>
+
+</node>
+<node id="2254477">
+	<data key="Label">Sameh</data>
+	<data key="uid"><![CDATA[2254477]]></data>
+	<data key="age"><![CDATA[35]]></data>
+	<data key="Niveau_intelectuelle"><![CDATA[3]]></data> 
+    <data key="passion"><![CDATA[1]]></data> 
+	<data key="sexe"><![CDATA[1]]></data>
+	<data key="ville"><![CDATA[sétif]]></data>
+	<data key="Nombre_amis"><![CDATA[43]]></data>
+	<data key="Activité"><![CDATA[false]]></data>
+
+</node>
+<node id="2300653">
+	<data key="Label">Ranim</data>
+	<data key="uid"><![CDATA[2300653]]></data>
+	<data key="age"><![CDATA[25]]></data>
+	<data key="Niveau_intelectuelle"><![CDATA[2]]></data> 
+    <data key="passion"><![CDATA[5]]></data> 
+	<data key="sexe"><![CDATA[2]]></data>
+	<data key="ville"><![CDATA[sétif]]></data>
+	<data key="Nombre_amis"><![CDATA[92]]></data>
+	<data key="Activité"><![CDATA[true]]></data>
+
+</node>
+<node id="2305510">
+	<data key="Label">Ghani</data>
+	<data key="uid"><![CDATA[2305510]]></data>
+	<data key="age"><![CDATA[48]]></data>
+	<data key="Niveau_intelectuelle"><![CDATA[4]]></data> 
+    <data key="passion"><![CDATA[3]]></data> 
+	<data key="sexe"><![CDATA[1]]></data>
+	<data key="ville"><![CDATA[sétif]]></data>
+	<data key="Nombre_amis"><![CDATA[100]]></data>
+	<data key="Activité"><![CDATA[true]]></data>
+
+</node>
+<node id="8401676">
+	<data key="Label">Lia </data>
+	<data key="uid"><![CDATA[8401676]]></data>
+    <data key="age"><![CDATA[30]]></data>
+	<data key="Niveau_intelectuelle"><![CDATA[3]]></data> 
+    <data key="passion"><![CDATA[2]]></data> 
+    <data key="sexe"><![CDATA[2]]></data>
+	<data key="ville"><![CDATA[sétif]]></data>
+	<data key="Nombre_amis"><![CDATA[70]]></data>
+	<data key="Activité"><![CDATA[false]]></data>
+
+</node>
+<node id="43406546">
+	<data key="Label">Baker</data>
+	<data key="uid"><![CDATA[43406546]]></data>
+	<data key="sexe"><![CDATA[1]]></data>
+	<data key="age"><![CDATA[38]]></data>
+	<data key="Niveau_intelectuelle"><![CDATA[3]]></data> 
+    <data key="passion"><![CDATA[1]]></data>
+	<data key="ville"><![CDATA[sétif]]></data>
+	<data key="Nombre_amis"><![CDATA[44]]></data>
+	<data key="Activité"><![CDATA[false]]></data>
+
+</node>
+<node id="43407001">
+	<data key="Label">hajer</data>
+	<data key="uid"><![CDATA[43407001]]></data>
+	<data key="sexe"><![CDATA[1]]></data>
+	<data key="age"><![CDATA[26]]></data>
+	<data key="Niveau_intelectuelle"><![CDATA[3]]></data> 
+    <data key="passion"><![CDATA[1]]></data>
+	<data key="ville"><![CDATA[sétif]]></data>
+	<data key="Nombre_amis"><![CDATA[83]]></data>
+	<data key="Activité"><![CDATA[true]]></data>
+
+</node>
+<edge id="0" source="1224446" target="400966"></edge>
+<edge id="1" source="404619" target="1702151"></edge>
+<edge id="2" source="2201126" target="1702151"></edge>
+<edge id="3" source="2201317" target="1702151"></edge>
+<edge id="4" source="2201551" target="1702151"></edge>
+<edge id="5" source="2201750" target="1702151"></edge>
+<edge id="6" source="2202577" target="1702151"></edge>
+<edge id="7" source="407803" target="1702151"></edge>
+<edge id="8" source="2201552" target="1702151"></edge>
+<edge id="9" source="1002060" target="1702151"></edge>
+<edge id="10" source="412915" target="1702151"></edge>
+<edge id="11" source="412915" target="1702151"></edge>
+<edge id="12" source="1224446" target="1702151"></edge>
+<edge id="13" source="2207908" target="5185"></edge>
+<edge id="14" source="5185" target="1941289"></edge>
+<edge id="15" source="5185" target="404619"></edge>
+<edge id="16" source="5185" target="1702151"></edge>
+<edge id="17" source="5185" target="400966"></edge>
+<edge id="18" source="1224446" target="1702151"></edge>
+<edge id="19" source="2202977" target="407803"></edge>
+<edge id="20" source="2204063" target="407803"></edge>
+<edge id="21" source="2207908" target="407803"></edge>
+<edge id="22" source="1105956" target="407803"></edge>
+<edge id="23" source="404127" target="601162"></edge>
+<edge id="24" source="404127" target="1702151"></edge>
+<edge id="25" source="1941289" target="404127"></edge>
+<edge id="26" source="2204191" target="404127"></edge>
+<edge id="27" source="2205999" target="404127"></edge>
+<edge id="28" source="2205125" target="2203571"></edge>
+<edge id="29" source="1702151" target="2204770"></edge>
+<edge id="30" source="412915" target="2204770"></edge>
+<edge id="31" source="404127" target="2204770"></edge>
+<edge id="32" source="2200961" target="2204770"></edge>
+<edge id="33" source="1201499" target="2204770"></edge>
+<edge id="34" source="1105956" target="2204770"></edge>
+<edge id="35" source="2202577" target="2204770"></edge>
+<edge id="36" source="2207857" target="2201026"></edge>
+<edge id="37" source="2200961" target="2207857"></edge>
+<edge id="38" source="2205284" target="2207857"></edge>
+<edge id="39" source="2205999" target="2207857"></edge>
+<edge id="40" source="2206368" target="1002060"></edge>
+<edge id="41" source="2206368" target="2205125"></edge>
+<edge id="42" source="306239" target="2207857"></edge>
+<edge id="43" source="2206368" target="2205999"></edge>
+<edge id="44" source="2201317" target="2207857"></edge>
+<edge id="45" source="2201317" target="604605"></edge>
+<edge id="46" source="2201317" target="2204191"></edge>
+<edge id="47" source="2201552" target="2201317"></edge>
+<edge id="48" source="306239" target="1201499"></edge>
+<edge id="49" source="2004569" target="2201026"></edge>
+<edge id="50" source="2004569" target="1201499"></edge>
+<edge id="51" source="2004569" target="1002546"></edge>
+<edge id="52" source="2004569" target="2201551"></edge>
+<edge id="53" source="2004569" target="2200981"></edge>
+<edge id="54" source="306239" target="2200981"></edge>
+<edge id="55" source="306239" target="2205985"></edge>
+<edge id="56" source="306239" target="2203571"></edge>
+<edge id="57" source="817784" target="814655"></edge>
+<edge id="58" source="817784" target="1202627"></edge>
+<edge id="59" source="817784" target="415855"></edge>
+<edge id="60" source="817784" target="604605"></edge>
+<edge id="61" source="817784" target="1301364"></edge>
+<edge id="62" source="817784" target="1807788"></edge>
+<edge id="63" source="814655" target="809901"></edge>
+<edge id="64" source="601162" target="1224446"></edge>
+<edge id="65" source="1807788" target="601162"></edge>
+<edge id="66" source="809901" target="601162"></edge>
+<edge id="67" source="1202627" target="601162"></edge>
+<edge id="68" source="604605" target="1807788"></edge>
+<edge id="69" source="604605" target="604605"></edge>
+<edge id="70" source="604605" target="2254477"></edge>
+<edge id="71" source="604605" target="1202627"></edge>
+<edge id="72" source="604605" target="1202627"></edge>
+<edge id="73" source="809901" target="604605"></edge>
+<edge id="74" source="814655" target="803954"></edge>
+<edge id="75" source="803954" target="1002546"></edge>
+<edge id="76" source="803954" target="1202627"></edge>
+<edge id="77" source="803954" target="1202627"></edge>
+<edge id="78" source="803954" target="2205999"></edge>
+<edge id="79" source="803954" target="1301364"></edge>
+<edge id="80" source="1202627" target="803954"></edge>
+<edge id="81" source="2250932" target="803954"></edge>
+<edge id="82" source="809901" target="604605"></edge>
+<edge id="83" source="809901" target="1807788"></edge>
+<edge id="84" source="817784" target="814655"></edge>
+<edge id="85" source="814655" target="1301364"></edge>
+<edge id="86" source="817784" target="2207908"></edge>
+<edge id="87" source="817784" target="2201317"></edge>
+<edge id="88" source="817784" target="1301364"></edge>
+<edge id="89" source="1807788" target="1301364"></edge>
+<edge id="90" source="2201317" target="415855"></edge>
+<edge id="91" source="2300653" target="1202627"></edge>
+<edge id="92" source="604605" target="1202627"></edge>
+<edge id="93" source="809901" target="604605"></edge>
+<edge id="94" source="814655" target="803954"></edge>
+<edge id="95" source="2244681" target="2300653"></edge>
+<edge id="96" source="803954" target="1202627"></edge>
+<edge id="97" source="2300653" target="2305510"></edge>
+<edge id="98" source="2305510" target="2205999"></edge>
+<edge id="99" source="2250932" target="1301364"></edge>
+<edge id="100" source="2254477" target="803954"></edge>
+<edge id="101" source="43407001" target="1702151"></edge>
+<edge id="102" source="43407001" target="43406546"></edge>
+<edge id="103" source="43407001" target="8401676"></edge>
+<edge id="104" source="43406546" target="8401676"></edge>
+<edge id="105" source="404619" target="118832"></edge>
+<edge id="106" source="2201126" target="118832"></edge>
+<edge id="107" source="2201317" target="118832"></edge>
+<edge id="108" source="2201551" target="118832"></edge>
+<edge id="109" source="2201750" target="118832"></edge>
+<edge id="110" source="2202577" target="118832"></edge>
+<edge id="111" source="803954" target="118832"></edge>
+<edge id="112" source="2201552" target="118832"></edge>
+<edge id="113" source="1002060" target="118832"></edge>
+<edge id="114" source="412915" target="118832"></edge>
+<edge id="115" source="412915" target="118832"></edge>
+<edge id="116" source="1224446" target="118832"></edge>
+<edge id="117" source="2305510" target="118832"></edge>
+<edge id="118" source="118832" target="1941289"></edge>
+<edge id="119" source="5185" target="118832"></edge>
+<edge id="120" source="2202977" target="2205985"></edge>
+<edge id="121" source="2205985" target="43406546"></edge>
+<edge id="122" source="43406546" target="2244681"></edge>
+<edge id="123" source="2204063" target="43407001"></edge>
+<edge id="124" source="2200981" target="2205284"></edge>
+
+
+</graph></graphml>
